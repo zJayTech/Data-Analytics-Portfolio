@@ -39,7 +39,7 @@ This portfolio showcases my technical skills, real-world projects, and learning 
 | Project | Tools Used | Summary |
 |--------|------------|---------|
 | **Excel Sales Dashboard** | Excel, PivotTables, Charts | Created an interactive dashboard to visualize monthly sales trends and rep performance |
-| **Capstone Case Study (Google DA Cert)** | SQL, R, Tableau | Analyzed a real-world dataset to extract trends and provide actionable insights (coming soon) |
+| **Capstone Case Study (Google DA Cert)** | Excel, SQL, R | Analyzed a real-world dataset to extract trends and provide actionable insights |
 | *(More coming soon...)* | | |
 
 ---
