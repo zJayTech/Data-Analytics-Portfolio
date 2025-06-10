@@ -1,5 +1,67 @@
-title: Zack Jones
-#logo:
-#text:
-#show_downloads: true
-theme: jekyll-theme-chirpy
+# Site settings
+title: Zack Jones | Data Analyst Portfolio
+description: >-
+  Medicare professional transitioning into data analytics. Certified by Google with experience in Excel, SQL, Tableau, R, and Python.
+  Showcasing real-world projects and insights with a strong foundation in client-focused problem-solving.
+
+url: "https://zackjones94.github.io" # Replace with your actual GitHub Pages URL
+baseurl: "" # Keep blank for root GitHub Pages site
+
+# Author information
+author:
+  name: Zack Jones
+  email: zackjones.dataanalyst@gmail.com
+  github: zackjones94
+  linkedin: zack-jones-7b143b35a
+  location: "Tyler, TX"
+  role: "Data Analyst | SQL • Excel • Tableau • Python"
+
+# Theme
+theme: jekyll-theme-cayman # Clean, modern, recruiter-friendly
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-feed
+
+# Navigation
+header_pages:
+  - index.md       # About Me or Home
+  - projects.md    # Showcase data projects & dashboards
+  - resume.md      # Downloadable resume or embedded version
+  - contact.md     # Contact form or LinkedIn/email
+  - blog.md        # Optional: articles about your learning journey or tutorials
+
+# Social links
+social_links:
+  github: https://github.com/zackjones94
+  linkedin: https://www.linkedin.com/in/zack-jones-7b143b35a/
+  email: zackjones.dataanalyst@gmail.com
+
+# SEO Configuration
+seo:
+  type: "Person"
+  name: "Zack Jones"
+  description: "Early Career Data Analyst with a Google certificate and a track record of improving customer outcomes and mastering business-focused analytics tools."
+  url: "https://zackjones.github.io"
+
+# Analytics (optional)
+google_analytics: G-XXXXXXXXXX
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+
+# Default layouts
+defaults:
+  -
+    scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
+      author: "Zack Jones"
+
+# Optional SASS compression
+sass:
+  style: compressed
