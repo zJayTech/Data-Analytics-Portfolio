@@ -46,7 +46,7 @@ This portfolio showcases my technical skills, real-world projects, and learning 
 
 ## Resume
 
-[Download my resume](./Zack_Jones_Resume.pdf)  
+[View my resume](https://docs.google.com/document/d/1-cIMF5n3icKCGxDhhE5Nptz85aCAS_LoM8rmqLY9Dzw/edit?tab=t.0)  
 Or view it in the [Resume section of this site](https://zackjones.github.io/resume)
 
 ---
