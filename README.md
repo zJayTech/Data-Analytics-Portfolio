@@ -1,6 +1,6 @@
 # Zack's Portfolio
 
-Welcome to my data analytics portfolio! I'm Zack Jones — a results-driven professional with over 3 years of experience in the insurance industry, now transitioning into data analytics. I recently earned the **Google Data Analytics Certificate** and am passionate about turning raw data into clear, actionable insights.
+Welcome to my data analytics portfolio! I'm Zack Jones — a results-driven professional with over 3 years of experience in the insurance industry, now transitioning into data analytics. I recently earned the **Google Data Analytics Certificate** and I'm passionate about turning raw data into clear, actionable insights.
 
 This portfolio showcases my technical skills, real-world projects, and learning journey as I dive deeper into the world of data.
 
@@ -38,7 +38,7 @@ This portfolio showcases my technical skills, real-world projects, and learning 
 
 | Project | Tools Used | Summary |
 |--------|------------|---------|
-| [**Excel Sales Dashboard**](https://1drv.ms/x/c/34812ba1f637c043/ES4hTp8cpKdAlnRP2qNY2HsBr5nF8HWXwq2msQXql0gxVQ?e=iJb1zr) | Excel, PivotTables, Charts | Created an interactive dashboard to visualize monthly sales trends and rep performance |
+| [**Excel Sales Dashboard**](https://1drv.ms/x/c/34812ba1f637c043/ES4hTp8cpKdAlnRP2qNY2HsBr5nF8HWXwq2msQXql0gxVQ?e=iJb1zr) | Excel, PivotTables, Charts | Created an interactive dashboard to visualize sales trends and rep performance |
 | **Capstone Case Study (Google DA Cert)** | Excel, SQL, R | Analyzed a real-world dataset to extract trends and provide actionable insights |
 | *(More coming soon...)* | | |
 
