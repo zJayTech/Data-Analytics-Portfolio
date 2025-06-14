@@ -46,7 +46,7 @@ This portfolio showcases my technical skills, real-world projects, and learning 
 
 ## Resume
 
-[CLick Here to View](https://docs.google.com/document/d/1-cIMF5n3icKCGxDhhE5Nptz85aCAS_LoM8rmqLY9Dzw/edit?tab=t.0)
+[Click Here to View](https://docs.google.com/document/d/1-cIMF5n3icKCGxDhhE5Nptz85aCAS_LoM8rmqLY9Dzw/edit?tab=t.0)
 
 ---
 
@@ -54,7 +54,6 @@ This portfolio showcases my technical skills, real-world projects, and learning 
 
 - Email: [zackjones.dataanalyst@gmail.com](mailto:zackjones.dataanalyst@gmail.com)  
 - LinkedIn: [linkedin.com/in/zack-jones-7b143b35a](https://www.linkedin.com/in/zack-jones-7b143b35a/)  
-- Tableau Public: [tableau.com/profile/zackjones](https://public.tableau.com/app/profile/zack.jones2444)  
 
 ---
 
