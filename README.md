@@ -10,8 +10,7 @@ This portfolio showcases my technical skills, real-world projects, and learning 
 
 - Based in Tyler, TX  
 - Certified: [Google Data Analytics Certificate][(#)](https://coursera.org/share/39e275102d3db7d42d6049d861f51a25)  
-- Former Insurance Agent skilled in problem-solving and data-informed decision making  
-- Seeking entry-level Data Analyst roles with opportunities for growth and collaboration  
+- Former Insurance Agent skilled in problem-solving and data-informed decision making
 
 ---
 
