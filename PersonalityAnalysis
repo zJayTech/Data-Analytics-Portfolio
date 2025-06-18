@@ -1,0 +1,32 @@
+# 🧠 Personality Type Dataset: Extroverts vs. Introverts
+
+This project explores a dataset comparing traits between **extroverts** and **introverts**. The primary goal of this stage was to clean the data to prepare it for accurate analysis and visualization.
+
+## 📂 Files Included
+
+- [`personality_dataset.xlsx`](./personality_dataset.xlsx)  
+  Original dataset. Contains some rows with missing (blank) cell values.
+
+- [`personality_dataset_cleaned.xlsx`](./personality_dataset_cleaned.xlsx)  
+  Cleaned dataset. All incomplete rows (with blank cells) have been removed for data integrity.
+
+## 🧹 Data Cleaning Step (Excel / Google Sheets)
+
+The dataset was cleaned using **Google Sheets** by addressing missing values.
+
+### ✔️ What Was Done:
+- **Removed Blank Cells**  
+  Rows containing any missing or blank values were identified and removed. This ensures that all remaining data is complete and suitable for reliable analysis.
+
+### 💾 Outcome:
+- The cleaned file, `personality_dataset_cleaned.xlsx`, contains only complete records and is ready for further exploration, visualization, or modeling.
+
+## 📌 Next Steps:
+Further steps may include:
+- Exploratory Data Analysis (EDA)
+- Data visualization
+- Predictive modeling based on personality traits
+
+---
+
+*Created as part of my data analytics portfolio to demonstrate data preparation and cleaning using spreadsheet tools.*
