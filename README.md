@@ -24,7 +24,6 @@ This portfolio showcases my technical skills, real-world projects, and learning 
 **Data Visualization**  
 - Excel (PivotTables, Charts, Dashboards)  
 - Tableau  
-- Google Data Studio  
 
 **Other Tools**  
 - Microsoft 365 Suite  
