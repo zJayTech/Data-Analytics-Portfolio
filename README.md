@@ -52,7 +52,7 @@ This portfolio showcases my technical skills, real-world projects, and learning 
 ## Get in Touch
 
 - Email: [zackjones.dataanalyst@gmail.com](mailto:zackjones.dataanalyst@gmail.com)  
-- LinkedIn: [linkedin.com/in/zack-jones-7b143b35a](https://www.linkedin.com/in/zjaytech/)  
+- LinkedIn: [linkedin.com/in/zjaytech/](https://www.linkedin.com/in/zjaytech/)  
 
 ---
 
