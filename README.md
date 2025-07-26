@@ -38,7 +38,7 @@ This portfolio showcases my technical skills, real-world projects, and learning 
 |--------|------------|---------|
 | [**Sales Dashboard**](https://1drv.ms/x/c/34812ba1f637c043/ES4hTp8cpKdAlnRP2qNY2HsBr5nF8HWXwq2msQXql0gxVQ?e=iJb1zr) | Excel | Created dashboards using Pivot Tables to visualize sales trends and rep performance |
 | [**Coffee Shop Analysis**](https://github.com/zJayTech/Coffee-Shop-Analysis/blob/main/README.md) | SQL | Used Microsoft SQL Server to analyze trends in a coffee shop |
-| [**Mental Health in Tech Survey Analysis**](https://github.com/zJayTech/Data-Analytics-Portfolio/commit/2f8557c90de64c142f9932b9d1ef7135f61cf421) | R | Analyzed a real-world dataset to extract trends and provide actionable insights |
+| [**Mental Health in Tech Survey Analysis**](https://github.com/zJayTech/Mental-Health-in-Tech-Survey-Analysis) | R | Analyzed a real-world dataset to extract trends and provide actionable insights |
 | [**Tableau Project Coming Soon...**] | Tableau |  |
 
 ---
