@@ -38,7 +38,7 @@ This portfolio showcases my technical skills, real-world projects, and learning 
 |--------|------------|---------|
 | [**Excel Sales Dashboard**](https://1drv.ms/x/c/34812ba1f637c043/ES4hTp8cpKdAlnRP2qNY2HsBr5nF8HWXwq2msQXql0gxVQ?e=iJb1zr) | Excel, PivotTables, Charts | Created an interactive dashboard to visualize sales trends and rep performance |
 | [**Capstone Case Study (Google DA Cert)**](https://github.com/zJayTech/Data-Analytics-Portfolio/commit/2f8557c90de64c142f9932b9d1ef7135f61cf421) | Excel, SQL, R | Analyzed a real-world dataset to extract trends and provide actionable insights |
-|  [**BigQuery Exploration Project**] | | |
+|  [**BigQuery Exploration Project**] | SQL | |
 
 ---
 
