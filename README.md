@@ -39,7 +39,7 @@ This portfolio showcases my technical skills, real-world projects, and learning 
 | [**Sales Dashboard**](https://1drv.ms/x/c/34812ba1f637c043/ES4hTp8cpKdAlnRP2qNY2HsBr5nF8HWXwq2msQXql0gxVQ?e=iJb1zr) | Excel | Created dashboards using Pivot Tables to visualize sales trends and rep performance |
 | [**Coffee Shop Analysis**](https://github.com/zJayTech/Coffee-Shop-Analysis/blob/main/README.md) | SQL | Used Microsoft SQL Server to analyze trends in a coffee shop |
 | [**Mental Health in Tech Survey Analysis**](https://github.com/zJayTech/Mental-Health-in-Tech-Survey-Analysis) | R | Analyzed mental health trends and support in the tech industry using a survey dataset, visualized with R and ggplot2 |
-| [**Credit Card Fraud Detection**](https://github.com/zJayTech/Credit-Card-Fraud-Detection) | Python | Performed credit card fraud detection on imbalanced data using Python for analysis, visualization, and machine learning |
+| [**Credit Card Fraud Detection**](https://github.com/zJayTech/Credit-Card-Fraud-Detection) | Python | Performed credit card fraud detection on imbalanced data using Python with Pandas for analysis, visualization, and machine learning |
 | [**Tableau Project Coming Soon...**] | Tableau |  |
 
 ---
